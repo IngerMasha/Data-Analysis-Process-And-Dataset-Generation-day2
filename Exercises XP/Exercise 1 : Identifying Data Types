@@ -1,0 +1,13 @@
+Exercise 1: Identifying Data Types
+
+A company’s financial reports stored in an Excel file represent structured data because they are organized in tables, making them easy to analyze.
+
+Photographs uploaded to a social media platform are examples of unstructured data because they lack a defined format or structure, making analysis difficult.
+
+A collection of news articles on a website also falls under unstructured data as the text of the articles doesn't have a predetermined structure, making it challenging to process automatically.
+
+Inventory data in a relational database is structured data since it's organized in tables with defined rows and columns, facilitating search and analysis.
+
+Recorded interviews from a market research study are considered unstructured data because audio and video files don't have a predefined structure, making analysis complex.
+
+In summary, structured data is easily organized and analyzed, such as tables in a database, while unstructured data lacks a clear structure, making it challenging to analyze, like text and images.
